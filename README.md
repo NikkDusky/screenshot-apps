@@ -12,6 +12,7 @@ pip install loguru
 pip install keyboard
 pip install configparser
 ```
+
 [![Pillow](https://img.shields.io/pypi/v/Pillow?color=pink&label=Pillow&style=flat-square)](https://pypi.org/project/Pillow/)
 [![loguru](https://img.shields.io/pypi/v/loguru?color=pink&label=loguru&style=flat-square)](https://pypi.org/project/loguru/)
 [![keyboard](https://img.shields.io/pypi/v/keyboard?color=pink&label=keyboard&style=flat-square)](https://pypi.org/project/keyboard/)
